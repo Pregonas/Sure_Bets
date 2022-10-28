@@ -5,7 +5,7 @@ import requests
 Per obtenir els chat_id, has de copiar el següent link al navegador i enviar un missatge al bot desde telegram (del movil).
 Despres actualitzes el navegador i llest.
 
-https://api.telegram.org/bot1258791685:AAEJdT8SUkseRehqBY5RkglWNQFkMKp63WU/getUpdates?offset=0
+https://api.telegram.org/botYour_Bot_Token/getUpdates?offset=0
 
 chats_id:
 
